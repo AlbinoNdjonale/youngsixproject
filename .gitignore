@@ -1,0 +1,15 @@
+serverside/__pycache__/*
+serverside/bd/*
+serverside/files/*
+
+clientside/.DS_Store
+clientside/node_modules/
+clientside/dist/
+clientside/npm-debug.log
+clientside/yarn-error.log
+
+clientside/.idea
+clientside/*.suo
+clientside/*.ntvs*
+clientside/*.njsproj
+clientside/*.sln
